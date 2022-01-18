@@ -57,7 +57,7 @@
                 </div>
                 <div>
                     <h2>Created with care</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sint distinctio rerum cumque? Voluptas, libero? In praesentium quis culpa vero.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sint distinctio rerum cumque? Voluptas, libero? </p>
                 </div>
             </div>
         </div>
